@@ -1,4 +1,5 @@
 This Python repository folder contains python basic learning related scripts 
+
 1.Data types - list [] , tuple () 
 
 2.Variable - left hand side , right hand side value 
